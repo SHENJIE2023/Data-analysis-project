@@ -49,7 +49,7 @@ The dataset used is `Appendix_A_Data.xlsx`, which includes the following columns
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/data-analysis-project.git
+    git clone https://github.com/SHENJIE2023/data-analysis-project.git
     cd data-analysis-project
     ```
 
@@ -139,7 +139,9 @@ for name, model in models.items():
     predictions[name] = model.predict(Xtest)
 ```
 ## Visualization of the follow-up
-
+- Visualization of model performance and metrics
+- Visualization of added blobs
+- Visualization of unadded blobs
 ## Results
 The analysis revealed the following key insights:
 
